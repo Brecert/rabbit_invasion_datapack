@@ -1,0 +1,1 @@
+execute as @e[type=rabbit,nbt={InLove: 0},nbt=!{MoreCarrotTicks: 0}] run data merge entity @s {InLove: 300}
